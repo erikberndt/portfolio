@@ -15,15 +15,7 @@
 		<hr class="mb2">
 		<div class="clearfix">
 			<div class="col col-12">
-				<div class="flex flex-start  ">
-					Vanessa Scott
-					<div class="address__icon mr2 b1"></div>
-					<div>
-						<span class="block">Petermannstr. 35</span>
-						<span class="block">30459 Hannover</span>
-					</div>
-				</div>
-			</div>
+				<div 
 			<div class="col col-12">
 				<div class="border-top sidebar__separator mt2 mb2"></div>
 			</div>
